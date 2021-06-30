@@ -187,7 +187,7 @@ def awokawokawokawokawokawokawokawokawokawokawokawok():
         elif yan =='1':
                 friends()
         elif yan =='2':
-                public()
+                publik()
         elif yan =='3':
                 followers()
         elif yan =='4':
